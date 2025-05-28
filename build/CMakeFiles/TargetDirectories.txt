@@ -1,0 +1,3 @@
+D:/project_bai_tap/c_project/cmake/LightYears/build/CMakeFiles/ALL_BUILD.dir
+D:/project_bai_tap/c_project/cmake/LightYears/build/CMakeFiles/ZERO_CHECK.dir
+D:/project_bai_tap/c_project/cmake/LightYears/build/LightYears/CMakeFiles/LightYearsGame.dir
