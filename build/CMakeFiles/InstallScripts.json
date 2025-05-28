@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/project_bai_tap/c_project/cmake/LightYears/build/cmake_install.cmake",
-		"D:/project_bai_tap/c_project/cmake/LightYears/build/LightYears/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
